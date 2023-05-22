@@ -5,7 +5,7 @@ import FutScore from '../assets/FutScore1.png'
 import PixelArt from '../assets/PixelArt1.png'
 import StoreManager from '../assets/StoreManager1.png'
 import TFC from '../assets/TFC1.png'
-import TrybeTunes from '../assets/TrybeTunes1.png'
+import SoundSearch from '../assets/SoundSearch.png'
 import '../style/styleNav.css'
 import '../style/styleProjetos.css'
 import Info from "../components/info";
@@ -27,11 +27,11 @@ function Projetos() {
                     <p>FutScore é um projeto que simula um campeonato de futebol, onde é possivel a criação de time e partidas, alterar o placar, finalizar partidas</p>
                 </div>
             </Link>
-            <Link to="/portfolio/projetos/trybe_tunes">
+            <Link to="/portfolio/projetos/sound_search">
                 <div>
-                    <img src={TrybeTunes} alt="Projeto Trybe Tunes" className="imgProjects" />
-                    <h3>Trybe Tunes</h3>
-                    <p>TrybeTunes é um projeto que simula um streaming de música que é possivel fazer uma pesquisa de musicas por artistas</p>
+                    <img src={SoundSearch} alt="Projeto Sound Search" className="imgProjects" />
+                    <h3>Sound Search</h3>
+                    <p>SoundSearch é um projeto que simula um streaming de música que é possivel fazer uma pesquisa de musicas por artistas</p>
                 </div>
             </Link>
             <Link to="/portfolio/projetos/pixel_art">

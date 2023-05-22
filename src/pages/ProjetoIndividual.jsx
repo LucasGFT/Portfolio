@@ -5,7 +5,7 @@ import FutScore from '../assets/FutScore1.png'
 import PixelArt from '../assets/PixelArt1.png'
 import StoreManager from '../assets/StoreManager1.png'
 import TFC from '../assets/TFC1.png'
-import TrybeTunes from '../assets/TrybeTunes1.png'
+import SoundSearch from '../assets/SoundSearch.png'
 import '../style/styleNav.css'
 import '../style/styleProjetoIndividual.css'
 import { useParams } from "react-router-dom";
@@ -29,13 +29,13 @@ function ProjetoIndividual(props) {
                 setSkills(['React', 'HTML', 'CSS', 'Axios', 'NodeJS', 'Express', 'ApiRest', 'Typescript', 'Jest', 'MongoDB', 'Mongoose'])
                 setLinkGithub('https://github.com/LucasGFT/FutScore')
             break;
-            case 'trybe_tunes':
-                setTitle('Trybe Tunes')
+            case 'sound_search':
+                setTitle('SoundSearch')
                 setParagrafo('Este projeto é  uma simulação de um streaming de música que é possivel fazer uma pesquisa de musicas por artistas, e favoritar suas musicas')
-                setImage(TrybeTunes);
+                setImage(SoundSearch);
                 setSkills(['React', 'HTML', 'CSS', 'JavaScript'])
-                setLinkGithub('https://github.com/LucasGFT/TrybeTunes')
-                setLinkAplication('https://lucasgft.github.io/TrybeTunes/')
+                setLinkGithub('https://github.com/LucasGFT/SoundSearch')
+                setLinkAplication('https://lucasgft.github.io/SoundSearch/')
             break;
             case 'pixel_art':
                 setTitle('Pixel Art')
