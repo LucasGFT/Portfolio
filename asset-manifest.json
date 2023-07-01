@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4bd01632.css",
-    "main.js": "/portfolio/static/js/main.bef16458.js",
+    "main.js": "/portfolio/static/js/main.d7444814.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SoundSearch.png": "/portfolio/static/media/SoundSearch.52cb97702bd31ed2a2df.png",
     "static/media/Quiz.png": "/portfolio/static/media/Quiz.04939d5e1180390ec6f7.png",
     "static/media/Monty-Hall.png": "/portfolio/static/media/Monty-Hall.bcadfb4328c6b09b6ebf.png",
+    "static/media/PixelArt.png": "/portfolio/static/media/PixelArt.6d3a6f15868c46972b40.png",
+    "static/media/FutScore.png": "/portfolio/static/media/FutScore.a515efe1dc885b76c132.png",
     "index.html": "/portfolio/index.html",
     "main.4bd01632.css.map": "/portfolio/static/css/main.4bd01632.css.map",
-    "main.bef16458.js.map": "/portfolio/static/js/main.bef16458.js.map",
+    "main.d7444814.js.map": "/portfolio/static/js/main.d7444814.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bd01632.css",
-    "static/js/main.bef16458.js"
+    "static/js/main.d7444814.js"
   ]
 }
